@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ru.pay.android.androidApp-mergeDebugResources-55:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\9.1.0\\transforms\\65320418a4db9199f23e86926125bcd8\\workspace\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

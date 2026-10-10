@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-06",
+  "totalTests": 48,
+  "failures": 0,
+  "skipped": 0,
+  "suites": [
+    {
+      "name": "ru.pay.domain.RulesTest",
+      "tests": "15",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "timestamp": "2026-10-06T10:31:58"
+    },
+    {
+      "name": "ru.pay.server.PostgresIntegrationTest",
+      "tests": "18",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "timestamp": "2026-10-06T10:33:30"
+    },
+    {
+      "name": "ru.pay.server.SecurityTest",
+      "tests": "4",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "timestamp": "2026-10-06T10:33:41"
+    },
+    {
+      "name": "ru.pay.android.PaymentViewModelTest",
+      "tests": "6",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "timestamp": "2026-10-06T17:01:13.822Z"
+    },
+    {
+      "name": "ru.pay.android.RemoteRepositoryTest",
+      "tests": "5",
+      "failures": "0",
+      "errors": "0",
+      "skipped": "0",
+      "timestamp": "2026-10-06T17:01:18.968Z"
+    }
+  ],
+  "lintErrors": 0,
+  "lintWarnings": 9,
+  "gradle": "9.1.0",
+  "jdk": "21",
+  "postgresql": "17.5"
+}

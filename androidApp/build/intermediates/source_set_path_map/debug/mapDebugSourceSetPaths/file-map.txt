@@ -1,0 +1,60 @@
+ru.pay.android.androidApp-core-ktx-1.13.1-0 C:\Users\user\.gradle\caches\9.1.0\transforms\03af752fb4d5c300af0c034ad6ecb5b9\workspace\transformed\core-ktx-1.13.1\res
+ru.pay.android.androidApp-animation-release-1 C:\Users\user\.gradle\caches\9.1.0\transforms\07ce5bdc081a4ac118a3d13c14a1803a\workspace\transformed\animation-release\res
+ru.pay.android.androidApp-ui-util-release-2 C:\Users\user\.gradle\caches\9.1.0\transforms\0a8a22708a054afcb4ba8945d80b66ad\workspace\transformed\ui-util-release\res
+ru.pay.android.androidApp-lifecycle-livedata-2.8.7-3 C:\Users\user\.gradle\caches\9.1.0\transforms\0b3d474a0a1f8ec195235bacf77b706b\workspace\transformed\lifecycle-livedata-2.8.7\res
+ru.pay.android.androidApp-ui-geometry-release-4 C:\Users\user\.gradle\caches\9.1.0\transforms\0cd1c063adc7c0eaa199532c16827304\workspace\transformed\ui-geometry-release\res
+ru.pay.android.androidApp-ui-unit-release-5 C:\Users\user\.gradle\caches\9.1.0\transforms\0e0e732027cb844e9dac32b9e7661b2b\workspace\transformed\ui-unit-release\res
+ru.pay.android.androidApp-customview-poolingcontainer-1.0.0-6 C:\Users\user\.gradle\caches\9.1.0\transforms\0ef2d2dde389f498e9c8c8e28a822005\workspace\transformed\customview-poolingcontainer-1.0.0\res
+ru.pay.android.androidApp-core-runtime-2.2.0-7 C:\Users\user\.gradle\caches\9.1.0\transforms\10b74de11fccd50c920b94bbe4338b0a\workspace\transformed\core-runtime-2.2.0\res
+ru.pay.android.androidApp-startup-runtime-1.1.1-8 C:\Users\user\.gradle\caches\9.1.0\transforms\10ee23b44e00df153b9c243b523d3cff\workspace\transformed\startup-runtime-1.1.1\res
+ru.pay.android.androidApp-material-icons-core-release-9 C:\Users\user\.gradle\caches\9.1.0\transforms\113ba20aa99b1f3d134a0a16807eb0ea\workspace\transformed\material-icons-core-release\res
+ru.pay.android.androidApp-hilt-navigation-compose-1.2.0-10 C:\Users\user\.gradle\caches\9.1.0\transforms\1601ae1c31c57fa9331911f6868162ae\workspace\transformed\hilt-navigation-compose-1.2.0\res
+ru.pay.android.androidApp-material-release-11 C:\Users\user\.gradle\caches\9.1.0\transforms\1ffe9f1b41c1c6333d7b84cee5f14979\workspace\transformed\material-release\res
+ru.pay.android.androidApp-navigation-runtime-2.5.1-12 C:\Users\user\.gradle\caches\9.1.0\transforms\24b5f1885205b6c437a917fb7cfd6295\workspace\transformed\navigation-runtime-2.5.1\res
+ru.pay.android.androidApp-ui-release-13 C:\Users\user\.gradle\caches\9.1.0\transforms\2741daa1e18f217ee7da6cc758f96900\workspace\transformed\ui-release\res
+ru.pay.android.androidApp-runtime-saveable-release-14 C:\Users\user\.gradle\caches\9.1.0\transforms\28310ff13626f8a6cbfe5ab7fea9adf6\workspace\transformed\runtime-saveable-release\res
+ru.pay.android.androidApp-navigation-compose-2.5.1-15 C:\Users\user\.gradle\caches\9.1.0\transforms\2b5b767ac2b69eb514584f3986d4f9fc\workspace\transformed\navigation-compose-2.5.1\res
+ru.pay.android.androidApp-emoji2-1.3.0-16 C:\Users\user\.gradle\caches\9.1.0\transforms\3512df769232caad264fafb0da9f4c79\workspace\transformed\emoji2-1.3.0\res
+ru.pay.android.androidApp-material-ripple-release-17 C:\Users\user\.gradle\caches\9.1.0\transforms\434b484eb661a554be1c4ca7dde3392c\workspace\transformed\material-ripple-release\res
+ru.pay.android.androidApp-lifecycle-viewmodel-release-18 C:\Users\user\.gradle\caches\9.1.0\transforms\4661383e92cc016a34f979bb3f7a3781\workspace\transformed\lifecycle-viewmodel-release\res
+ru.pay.android.androidApp-activity-compose-1.9.3-19 C:\Users\user\.gradle\caches\9.1.0\transforms\46d37a1182a101f8c45dd60b10010058\workspace\transformed\activity-compose-1.9.3\res
+ru.pay.android.androidApp-lifecycle-runtime-release-20 C:\Users\user\.gradle\caches\9.1.0\transforms\4d4566c9fcb3986cc42e212c2ee0f14a\workspace\transformed\lifecycle-runtime-release\res
+ru.pay.android.androidApp-lifecycle-livedata-core-2.8.7-21 C:\Users\user\.gradle\caches\9.1.0\transforms\4ec9a03786ef726f3cbf8389345ed16b\workspace\transformed\lifecycle-livedata-core-2.8.7\res
+ru.pay.android.androidApp-lifecycle-runtime-ktx-release-22 C:\Users\user\.gradle\caches\9.1.0\transforms\50255aa9695ee4f2e8aacf154e6650aa\workspace\transformed\lifecycle-runtime-ktx-release\res
+ru.pay.android.androidApp-navigation-common-2.5.1-23 C:\Users\user\.gradle\caches\9.1.0\transforms\56cfb30ae8c7d56e17dffd331048c185\workspace\transformed\navigation-common-2.5.1\res
+ru.pay.android.androidApp-foundation-release-24 C:\Users\user\.gradle\caches\9.1.0\transforms\57ff9de4842e1d51376506392616eba0\workspace\transformed\foundation-release\res
+ru.pay.android.androidApp-savedstate-1.2.1-25 C:\Users\user\.gradle\caches\9.1.0\transforms\5acc044323eb0513beb80c1e28507561\workspace\transformed\savedstate-1.2.1\res
+ru.pay.android.androidApp-material3-release-26 C:\Users\user\.gradle\caches\9.1.0\transforms\65320418a4db9199f23e86926125bcd8\workspace\transformed\material3-release\res
+ru.pay.android.androidApp-lifecycle-viewmodel-savedstate-2.8.7-27 C:\Users\user\.gradle\caches\9.1.0\transforms\67a4e7998126c2c2c424da937a8e0e02\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+ru.pay.android.androidApp-lifecycle-process-2.8.7-28 C:\Users\user\.gradle\caches\9.1.0\transforms\68dc5f89c46f1f0a4e4bbd709cbe9351\workspace\transformed\lifecycle-process-2.8.7\res
+ru.pay.android.androidApp-ui-text-release-29 C:\Users\user\.gradle\caches\9.1.0\transforms\6b9d60dd3af899a604cba92be9e0c725\workspace\transformed\ui-text-release\res
+ru.pay.android.androidApp-lifecycle-livedata-core-ktx-2.8.7-30 C:\Users\user\.gradle\caches\9.1.0\transforms\6d92a2063e3148c2d7e4a907bf9a6887\workspace\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+ru.pay.android.androidApp-graphics-path-1.0.1-31 C:\Users\user\.gradle\caches\9.1.0\transforms\7f4076fb3e7a21eeb0b8480c10075808\workspace\transformed\graphics-path-1.0.1\res
+ru.pay.android.androidApp-activity-1.9.3-32 C:\Users\user\.gradle\caches\9.1.0\transforms\8053321eac2995893948284c77de8154\workspace\transformed\activity-1.9.3\res
+ru.pay.android.androidApp-lifecycle-runtime-compose-release-33 C:\Users\user\.gradle\caches\9.1.0\transforms\907e83c3faea4cb43e2759cd267d0dbf\workspace\transformed\lifecycle-runtime-compose-release\res
+ru.pay.android.androidApp-ui-test-manifest-1.7.6-34 C:\Users\user\.gradle\caches\9.1.0\transforms\9250e1f116e20dc9891a8ac184f2b340\workspace\transformed\ui-test-manifest-1.7.6\res
+ru.pay.android.androidApp-navigation-common-ktx-2.5.1-35 C:\Users\user\.gradle\caches\9.1.0\transforms\9718183a88f60a465841f863e40c15a3\workspace\transformed\navigation-common-ktx-2.5.1\res
+ru.pay.android.androidApp-ui-tooling-preview-release-36 C:\Users\user\.gradle\caches\9.1.0\transforms\9805c31cf5b47d7cb31584173dfe04f7\workspace\transformed\ui-tooling-preview-release\res
+ru.pay.android.androidApp-ui-graphics-release-37 C:\Users\user\.gradle\caches\9.1.0\transforms\b20f4d66e93220e1b17efb7158956a94\workspace\transformed\ui-graphics-release\res
+ru.pay.android.androidApp-ui-tooling-release-38 C:\Users\user\.gradle\caches\9.1.0\transforms\b37566633d08ed56370fdcafe28eef48\workspace\transformed\ui-tooling-release\res
+ru.pay.android.androidApp-animation-core-release-39 C:\Users\user\.gradle\caches\9.1.0\transforms\baa9c3c3f3e7977e1d0a6d5ddc9de0df\workspace\transformed\animation-core-release\res
+ru.pay.android.androidApp-lifecycle-viewmodel-compose-release-40 C:\Users\user\.gradle\caches\9.1.0\transforms\bb52a1665ee70ce186c7d9e3456f5084\workspace\transformed\lifecycle-viewmodel-compose-release\res
+ru.pay.android.androidApp-foundation-layout-release-41 C:\Users\user\.gradle\caches\9.1.0\transforms\bd3bc0680ccf499a740ee5dffc5a2413\workspace\transformed\foundation-layout-release\res
+ru.pay.android.androidApp-ui-tooling-data-release-42 C:\Users\user\.gradle\caches\9.1.0\transforms\be6475beeb69eac9109c6c17127afae9\workspace\transformed\ui-tooling-data-release\res
+ru.pay.android.androidApp-annotation-experimental-1.4.1-43 C:\Users\user\.gradle\caches\9.1.0\transforms\cb20c46e38ed4fc6eb7617d89ad8e0b2\workspace\transformed\annotation-experimental-1.4.1\res
+ru.pay.android.androidApp-lifecycle-viewmodel-ktx-2.8.7-44 C:\Users\user\.gradle\caches\9.1.0\transforms\d34ac6f5476eaa565c81d5263ce86fac\workspace\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+ru.pay.android.androidApp-runtime-release-45 C:\Users\user\.gradle\caches\9.1.0\transforms\d75282e3812be6c6a552a23d5c5f7376\workspace\transformed\runtime-release\res
+ru.pay.android.androidApp-fragment-1.5.1-46 C:\Users\user\.gradle\caches\9.1.0\transforms\d900c3830de6d303376bd22344406bb4\workspace\transformed\fragment-1.5.1\res
+ru.pay.android.androidApp-savedstate-ktx-1.2.1-47 C:\Users\user\.gradle\caches\9.1.0\transforms\da42bf01843f622eadc65f69c39a7d7f\workspace\transformed\savedstate-ktx-1.2.1\res
+ru.pay.android.androidApp-hilt-navigation-1.2.0-48 C:\Users\user\.gradle\caches\9.1.0\transforms\e3e88d4905972d3c602b65242a37d07b\workspace\transformed\hilt-navigation-1.2.0\res
+ru.pay.android.androidApp-profileinstaller-1.3.1-49 C:\Users\user\.gradle\caches\9.1.0\transforms\e8b932b93d365c89d7f8a51ea8491af2\workspace\transformed\profileinstaller-1.3.1\res
+ru.pay.android.androidApp-navigation-runtime-ktx-2.5.1-50 C:\Users\user\.gradle\caches\9.1.0\transforms\f38804516b28c76f2a2abcc204781cdb\workspace\transformed\navigation-runtime-ktx-2.5.1\res
+ru.pay.android.androidApp-activity-ktx-1.9.3-51 C:\Users\user\.gradle\caches\9.1.0\transforms\f46a0a402cf65cf0b332f7efb045e01b\workspace\transformed\activity-ktx-1.9.3\res
+ru.pay.android.androidApp-core-1.13.1-52 C:\Users\user\.gradle\caches\9.1.0\transforms\f5940ddf2936376e447856808c31592b\workspace\transformed\core-1.13.1\res
+ru.pay.android.androidApp-pngs-53 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\build\generated\res\pngs\debug
+ru.pay.android.androidApp-resValues-54 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\build\generated\res\resValues\debug
+ru.pay.android.androidApp-packageDebugResources-55 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ru.pay.android.androidApp-packageDebugResources-56 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ru.pay.android.androidApp-debug-57 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\build\intermediates\merged_res\debug\mergeDebugResources
+ru.pay.android.androidApp-debug-58 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\src\debug\res
+ru.pay.android.androidApp-main-59 C:\Users\user\Desktop\android kursach\electronic-payment-system\androidApp\src\main\res
